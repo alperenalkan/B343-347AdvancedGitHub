@@ -12,5 +12,7 @@ public class MyClass {
     //Techpro branch, version t1
     public String string4 = "Techpro branch olustruldu";
 
+    //Techpro branch, version t2
+    public String string5 = "Techpro baska branch olustruldu";
 
 }
