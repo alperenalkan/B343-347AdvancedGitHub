@@ -20,5 +20,10 @@ public class MyClass {
     //Techpro branch, version t4
     public String string7 = "Tarabyada villasi cafcafli arabasi";
 
-   public String string11 = "eski köprünün altinda";
+    //conflict example
+    public String string11 = "Bu aksam ölürüm kimse beni tutamaz";
+
+
+
+   public String string12 = "eski köprünün altinda";
 }
